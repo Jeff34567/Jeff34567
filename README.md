@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **j3235939290@gmail.com**
 
-- Languages **Spanish ⛱️(Fluent), English (Fluent), French 🗼 (Intermediate), German (Basics)**
+- Languages : **Spanish ⛱️(Fluent), English (Fluent), French 🗼 (Intermediate), German (Basics)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

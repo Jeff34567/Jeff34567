@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jeffry Lopez</h1>
+<h1 align="center">Hi 👋, I'm Jeffry Lopez 🦇</h1>
 <h3 align="center">A passionate frontend developer from LA</h3>
 
 - 📫 How to reach me **j3235939290@gmail.com**
+
+- Languages **Spanish ⛱️(Fluent), English (Fluent), French 🗼 (Intermediate), German (Basics)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
